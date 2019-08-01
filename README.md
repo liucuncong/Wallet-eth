@@ -4,9 +4,9 @@
 准备环境：
 
 ```js
-create-react-app wallet-ethereum
+create-react-app wallet-eth
 
-cd wallet-ethereum
+cd wallet-eth
 npm install ethers --save
 npm install semantic-ui-react --save
 npm install semantic-ui-css --save
